@@ -102,7 +102,7 @@ http://127.0.0.1:8000/docs
 ## 🧪 Run Tests
 
 ```
-pytest
+python -m pytest
 ```
 
 ✔ Expected Output:
