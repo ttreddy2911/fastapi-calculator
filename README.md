@@ -1,6 +1,6 @@
 #  FastAPI Calculator with Testing & CI
 
-A dynamic and fully tested **FastAPI-based calculator application** with a responsive UI, complete test coverage, logging, and automated CI using GitHub Actions.
+A dynamic and fully tested **FastAPI-based calculator application** with a responsive UI, complete test coverage, logging and automated CI using GitHub Actions.
 
 ---
 
@@ -151,14 +151,4 @@ CI pipeline running and passing successfully.
   * Operations performed
   * Errors (e.g., divide by zero)
 
----
 
-## 👨‍💻 Author
-
-* Rahul Kumawat
-
----
-
-## 📜 License
-
-This project is for academic/educational purposes.
