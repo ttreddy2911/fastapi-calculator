@@ -27,4 +27,6 @@ jobs:
         sleep 5
 
     - name: Run tests
-      run: pytest
+      run: |
+        export PYTHONPATH=$PYTHONPATH:.
+        pytest
