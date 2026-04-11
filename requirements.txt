@@ -1,5 +1,9 @@
 fastapi
 uvicorn
+sqlalchemy
+psycopg[binary]
+pydantic[email]
+pwdlib[argon2]
 pytest
 httpx
 playwright
